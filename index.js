@@ -7,38 +7,38 @@ const questions = [
     {
         type: "input",
         name: "title",
-        message: "What is the title of your application/project?"
+        message: "Title?"
     },
     {
         type: "input",
         name: "purpose",
-        message: "Describe the purpose/function of this app"
+        message: "Describe the purpose/function."
     },
     {
         type: "input",
         name: "usage",
-        message: "How do you use the app?"
+        message: "how to use it?"
     },
     {
         type: "input",
         name: "gitUserName",
-        message: "What is your github username?"
+        message: "GitHub username?"
     },
     {
         type: "list",
         name: "license",
-        message: "What kind of license does this project have?",
+        message: "What kind of license does this have?",
         choices: ["The MIT License", "Apache 2.0 License", "Boost Software License 1.0", "Eclipse Public Licesne 1.0","none"]
     },
     {
         type: "input",
         name: "email",
-        message: "What is your email address?"
+        message: "Email address?"
     },
     {
         type: "input",
         name: "install",
-        message: "What are the installation instructions?"
+        message: "How do you install?"
     },
     {
         type: "input",
