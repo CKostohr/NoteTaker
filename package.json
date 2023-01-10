@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^8.2.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CKostohr/NoteTaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CKostohr/NoteTaker/issues"
+  },
+  "homepage": "https://github.com/CKostohr/NoteTaker#readme"
 }
